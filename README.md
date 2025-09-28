@@ -11,7 +11,7 @@ The complaints are classified into the following categories:
 2 → Consumer Loan  
 3 → Mortgage 
 
-# code for Text Classification
+# Code for Text Classification
 [Open Task5.ipynb in Google Colab](https://colab.research.google.com/drive/19Fmn12oYKlm2Us-bCqMsFYrNyTb8lHPr)  
 
 # Screenshots
